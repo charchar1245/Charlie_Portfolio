@@ -1,4 +1,4 @@
-# Charlie_Portfolio
+# Charlie_Gottschalk_Portfolio
 Data Science &amp; Neural Network Portfolio
 
 # Project 1: Neural Network Housing Prices Estimator: Project Overview
