@@ -13,3 +13,6 @@ Data Science &amp; Neural Network Portfolio
 * Uses medical data from Kaggle dataset to make predictions
 * Uses a simple neural network with techniques such as neuron dropout, pos_weight, and the sigmoid function (using PyTorch)
 * Overall functionality measured with 60% precision, 89% recall, and 70% F1 score
+
+![alt text](https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_training.png)
+![alt_text](https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_confusion_matrix.png)
