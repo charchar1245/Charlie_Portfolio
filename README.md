@@ -29,12 +29,12 @@ Data Science &amp; Neural Network Portfolio
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_training.png" alt="Training Loss" width="450">
+        <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_training.png?raw=true" alt="Training Loss" width="450">
         <br>
         <em>Training Loss per Epoch</em>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_confusion_matrix.png" alt="Confusion Matrix" width="450">
+        <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_confusion_matrix.png?raw=true" alt="Confusion Matrix" width="450">
         <br>
         <em>Confusion Matrix</em>
       </td>
