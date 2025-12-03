@@ -7,3 +7,9 @@ Data Science &amp; Neural Network Portfolio
 * Pre-processes data using One-Hot Encoding of categorical columns and mean value filling of missing values
 * Optimized, simple neural network built using the PyTorch neural network library and tools like the Adam optimizer and the Mean Squared Error Loss function
 * Performs accurately on test data with a R^2 value of .97
+
+# Project 2: Neural Network Diabetes Classifier: Project Overview
+* Created a tool that, using 9 different features for 100,000 patients, assists doctors in diagnosing diabetes
+* Uses medical data from Kaggle dataset to make predictions
+* Uses a simple neural network with techniques such as neuron dropout, pos_weight, and the sigmoid function (using PyTorch)
+* Overall functionality measured with 60% precision, 89% recall, and 70% F1 score
