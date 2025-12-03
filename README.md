@@ -14,7 +14,21 @@ Data Science &amp; Neural Network Portfolio
 * Uses a simple neural network with techniques such as neuron dropout, pos_weight, and the sigmoid function (using PyTorch)
 * Overall functionality measured with 60% precision, 89% recall, and 70% F1 score
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_training.png" width="45%" style="margin-right: 10px;">
-  <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_confusion_matrix.png" width="45%">
+<h3 align="center">Model Performance Visualizations</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_training.png" alt="Training Loss" width="450">
+        <br>
+        <em>Training Loss per Epoch</em>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/diabetes_predictor_confusion_matrix.png" alt="Confusion Matrix" width="450">
+        <br>
+        <em>Confusion Matrix</em>
+      </td>
+    </tr>
+  </table>
 </div>
