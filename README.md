@@ -8,6 +8,15 @@ Data Science &amp; Neural Network Portfolio
 * Optimized, simple neural network built using the PyTorch neural network library and tools like the Adam optimizer and the Mean Squared Error Loss function
 * Performs accurately on test data with a R^2 value of .97
 
+<div align="center">
+  <img src="https://github.com/charchar1245/Charlie_Portfolio/blob/main/images/HousingPrices_training.png?raw=true" 
+       alt="Housing Prices Training Loss" 
+       width="600">
+  <br>
+  <em>Training Loss Curve for Housing Prices Model</em>
+</div>
+
+
 # Project 2: Neural Network Diabetes Classifier: Project Overview
 * Created a tool that, using 9 different features for 100,000 patients, assists doctors in diagnosing diabetes
 * Uses medical data from Kaggle dataset to make predictions
