@@ -9,8 +9,7 @@
 ---
 
 # Introduction
-Welcome to my data science and neural network portfolio. This repository highlights machine learning projects I’ve built using PyTorch and real-world datasets from Kaggle. Each project focuses on a clear objective—whether predicting home sale prices or assisting in medical diagnosis—and demonstrates my ability to design models, preprocess data, evaluate performance, and visualize results.  
-More detailed writeups for each project will be available soon on standalone GitHub pages.
+Welcome to my data science and neural network portfolio. This repository highlights machine learning projects I’ve built using PyTorch and real-world datasets from Kaggle. Each project focuses on a clear objective and demonstrates my ability to design models, preprocess data, evaluate performance, and visualize results.  
 
 ---
 
@@ -29,7 +28,9 @@ The model achieves **60% precision, 89% recall, and a 70% F1 score**, making it 
 ---
 
 # Links & Contact Info
-- [LinkedIn](#)
+- [LinkedIn](www.linkedin.com/in/
+charlesgottschalkacc
+)
 - [Blog](#)
 - [Resume](#)
 - [Kaggle](#)
