@@ -10,6 +10,7 @@
 
 # Introduction
 My name is Charlie Gottschalk, I'm a third-year Computer Science student at the University of Georgia with an area of emphasis in Data Science and Artificial Intelligence. This repository highlights machine learning projects I’ve built using PyTorch and real-world datasets from Kaggle. Each project focuses on a clear objective and demonstrates my ability to design models, preprocess data, evaluate performance, and visualize results. 
+
 On the bottom of this page you can find a link to my LinkedIn page, my blog that documents my educational journey into the world of Neural Networks and other various Machine Learning techniques to gain additional context for all of my projects and to see how I've progressed in my career. 
 You can also find a link to my resume and my Kaggle profile as well.
 
