@@ -30,6 +30,6 @@ The model achieves **60% precision, 89% recall, and a 70% F1 score**, making it 
 
 # Links & Contact Info
 - [LinkedIn](https://www.linkedin.com/in/charlesgottschalkacc/)
-- [Blog](#)
+- [Blog](https://charchar1245.github.io/charlie-blog/index.html)
 - [Resume](#)
-- [Kaggle](#)
+- [Kaggle](https://www.kaggle.com/charliegottschalk)
