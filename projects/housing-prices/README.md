@@ -1,3 +1,5 @@
+[← Back to Portfolio](../../README.md)
+
 # 🏡 Housing Prices Predictor
 *A neural network for real-estate price estimation using Kaggle’s House Prices dataset*
 
@@ -102,3 +104,4 @@ In the House Prices dataset, which contains 81 mixed numerical and categorical f
 
 Overall, this project demonstrates the practical value of deep learning for tabular regression problems and reinforces the importance of careful data preparation, architecture design, and evaluation to achieve high-quality predictive performance.
 
+[← Back to Portfolio](../../README.md)
