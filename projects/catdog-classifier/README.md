@@ -89,7 +89,7 @@ After adding dropout and aggressive augmentation, the model struggled to extract
 This graph shows the **training and validation loss/accuracy** during a 25-epoch run.  
 The model demonstrates clear improvements in stability, generalization, and overall class separation.
 
-> **Note:** A *final* graph trained for **50 epochs** will be included later to further show minimized loss and smoother convergence.
+> **Note:** A *final* graph trained for **50 epochs** is included below to show the fully optimized results.
 
 ![Training Results](../../images/catdog_classifier_results.png)
 
@@ -98,7 +98,23 @@ The model demonstrates clear improvements in stability, generalization, and over
 - **Loss steadily decreases** for both train and validation sets, indicating improved generalization.
 - **Accuracy increases consistently**, with validation accuracy reaching **~78%** within 25 epochs.
 - Minor fluctuations reflect normal dataset variability and augmentation noise.
-- Extended training (50 epochs) is expected to further reduce loss and stabilize accuracy.
+- Training for 50 epochs (shown below) further smooths the loss curve and improves accuracy.
+
+---
+
+## 📈 Final Training Curves (After 50 Epochs)
+
+Below is the fully trained model after **50 epochs**, showing improved convergence and stability compared to the earlier 25-epoch results.
+
+![Final 50 Epoch Training Results](../../images/catdog_classifier_results_50.png)
+
+### Interpretation of 50-Epoch Results
+
+- **Training loss continues declining smoothly**, showing the model is still learning meaningful patterns.
+- **Validation loss flattens and stabilizes**, indicating strong generalization.
+- **Validation accuracy reaches ~80–82%**, consistently outperforming the earlier 25-epoch run.
+- The gap between training and validation accuracy is small → **minimal overfitting**.
+- These curves demonstrate that the architecture + regularization strategy + learning rate scheduling produced a stable, well-generalizing model.
 
 ---
 
@@ -112,11 +128,13 @@ The model demonstrates clear improvements in stability, generalization, and over
 | Underfitting | Largely resolved |
 | Generalization | Improved through BN + Dropout + Augmentation |
 
+> **Note:** Final 50-epoch metrics will be added soon to summarize the improved accuracy and loss trend.
+
 ---
 
 ## 🚀 Planned Improvements
 
-- Add final 50-epoch training plot  
+- Add a full metric table for the 50-epoch run  
 - Experiment with transfer learning (ResNet-18, MobileNet, EfficientNet)  
 - Increase dataset size  
 - Add Gaussian noise / random crop augmentation  
@@ -134,8 +152,7 @@ This project highlights the full deep-learning workflow:
 - applying augmentation  
 - tuning training behaviors with schedulers  
 
-With only 25 epochs, the model already achieves strong, stable performance.  
-The extended 50-epoch version will showcase further refinement and loss reduction.
+With both 25-epoch and 50-epoch training results, the model demonstrates strong, stable performance and steady improvement through longer training.
 
 ---
 
