@@ -137,9 +137,9 @@ These results show that after incorporating `pos_weight`, the model significantl
 - Matplotlib  
 - Scikit-learn  
 
----
-
-## 📁 Repository Structure
 
 
+## 🎉 Conclusion
+
+By leveraging `pos_weight` and analyzing recall, precision, and F1 score, the model evolved from a high-accuracy but low-utility classifier into one that meaningfully identifies diabetic patients. This project highlights the importance of using the right evaluation metrics and training strategies when working with imbalanced medical datasets.
 
