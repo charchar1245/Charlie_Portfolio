@@ -16,6 +16,12 @@ You can also find a link to my resume and my Kaggle profile as well.
 
 ---
 
+# [Cat vs. Dog Image Classifier](#)
+This project deploys a Convolutional Neural Network (CNN) made in PyTorch to be able to recognize any provided 128x128 pixel image as either a cat or a dog. It is trained with over 500 images in each category, and the images used for training are modified by rotation, modifying colors,
+and flipped in order to challenge the model into memorizing general patterns that cats and dogs respectively share over specific noise in order to reduce overfitting of data and make the model more robust. The model achieves 78% accuracy on the validation set.
+
+---
+
 # [Housing Prices Predictor](projects/housing-prices)
 This project builds a neural network capable of estimating the sale price of a house in USD using 81 numerical and categorical features. The model is trained on the well-known Kaggle dataset *House Prices – Advanced Regression Techniques*. The workflow includes one-hot encoding, imputation of missing data, normalization, model construction in PyTorch, and optimization with Adam and MSELoss.  
 The final model performs competitively with an **R² score of 0.97** on test data, demonstrating strong predictive accuracy for real-estate valuation tasks.
@@ -27,10 +33,6 @@ Using a dataset of 100,000 patients with 9 clinical features, this neural networ
 The model achieves **60% precision, 89% recall, and a 70% F1 score**, making it particularly effective for identifying positive diabetes cases in a medical screening context.
 
 ---
-
-# [Cat vs. Dog Image Classifier](#)
-This project deploys a Convolutional Neural Network (CNN) made in PyTorch to be able to recognize any provided 128x128 pixel image as either a cat or a dog. It is trained with over 500 images in each category, and the images used for training are modified by rotation, modifying colors,
-and flipped in order to challenge the model into memorizing general patterns that cats and dogs respectively share over specific noise in order to reduce overfitting of data and make the model more robust. The model achieves 78% accuracy on the validation set.
 
 # Links & Contact Info
 - [LinkedIn](https://www.linkedin.com/in/charlesgottschalkacc/)
