@@ -64,54 +64,53 @@ self.model = nn.Sequential(
 )
 ```
 
-Training Details:
+### Training Details
 
-Loss: MSELoss
+**Loss:** MSELoss  
+**Optimizer:** Adam (lr = 0.001)  
+**Epochs:** 100  
+**Batch Size:** 32  
 
-Optimizer: Adam (lr = 0.001)
+---
 
-Epochs: 100
+## 📈 Training Curves
 
-Batch size: 32
+### Training Loss Curve
+![Loss Curve](loss_curve.png)
 
-📈 Training Curves
-Loss Curve
+### R² Score Plot
+![R2 Plot](r2_plot.png)
 
-R² Score Plot
+*(Place images in this folder and reference them using relative paths.)*
 
-(Place images in this folder and reference them using relative paths.)
+---
 
-🚀 Results
+## 🥇 Results
 
-R² Score: 0.97
+### **Final R² Score: 0.97**
 
 The model generalizes well and captures nearly all variance in the target price.
 
-Insights:
+### Insights
+- Well-engineered features drastically improve accuracy  
+- One-hot encoding was essential for categorical handling  
+- Normalization stabilized gradients during training  
+- Adam optimizer performed well on mixed feature scales  
 
-Well-engineered features drastically improve accuracy
+---
 
-One-hot encoding was essential for categorical handling
-
-Normalization stabilized gradients during training
-
-Adam optimizer performed well on mixed feature scales
-
-🔍 Feature Importance (Permutation Importance)
+## 🔍 Feature Importance (Permutation Importance)
 
 Top influential features:
 
-OverallQual
+- OverallQual  
+- GrLivArea  
+- TotalBsmtSF  
+- GarageCars  
+- 1stFlrSF  
 
-GrLivArea
+You can insert the visual here:
 
-TotalBsmtSF
-
-GarageCars
-
-1stFlrSF
-
-Add your plot here:
-
+```markdown
 ![Feature Importance](feature_importance.png)
 
