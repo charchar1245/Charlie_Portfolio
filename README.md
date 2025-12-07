@@ -2,6 +2,7 @@
 
 # 📘 Table of Contents
 - [Introduction](#introduction)
+- [Cat vs. Dog Image Classifier](#cat-vs.-dog-image-classifier)
 - [Housing Prices Predictor](#housing-prices-predictor)
 - [Diabetes Classification Model](#diabetes-classification-model)
 - [Links & Contact Info](#links--contact-info)
