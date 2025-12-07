@@ -22,11 +22,15 @@ The final model performs competitively with an **R² score of 0.97** on test dat
 
 ---
 
-# [Diabetes Classification Model](#)
+# [Diabetes Classification Model](projects/diabetes-classifier)
 Using a dataset of 100,000 patients with 9 clinical features, this neural network was developed to support diabetes diagnosis by predicting whether an individual is likely to have diabetes. Techniques such as dropout, `pos_weight`, and sigmoid-based probability outputs were used to address class imbalance and improve recall.  
 The model achieves **60% precision, 89% recall, and a 70% F1 score**, making it particularly effective for identifying positive diabetes cases in a medical screening context.
 
 ---
+
+# [Cat vs. Dog Image Classifier](#)
+This project deploys a Convolutional Neural Network (CNN) made in PyTorch to be able to recognize any provided 128x128 pixel image as either a cat or a dog. It is trained with over 500 images in each category, and the images used for training are modified by rotation, modifying colors,
+and flipped in order to challenge the model into memorizing general patterns that cats and dogs respectively share over specific noise in order to reduce overfitting of data and make the model more robust. The model achieves 78% accuracy on the validation set.
 
 # Links & Contact Info
 - [LinkedIn](https://www.linkedin.com/in/charlesgottschalkacc/)
