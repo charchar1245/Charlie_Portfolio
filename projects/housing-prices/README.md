@@ -76,7 +76,7 @@ self.model = nn.Sequential(
 ## 📈 Training Curves
 
 ### Training Loss Curve
-![Loss Curve](loss_curve.png)
+![Loss Curve](images/HousingPrices_training.png)
 
 ---
 
