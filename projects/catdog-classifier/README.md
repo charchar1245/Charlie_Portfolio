@@ -128,7 +128,17 @@ Below is the fully trained model after **50 epochs**, showing improved convergen
 | Underfitting | Largely resolved |
 | Generalization | Improved through BN + Dropout + Augmentation |
 
-> **Note:** Final 50-epoch metrics will be added soon to summarize the improved accuracy and loss trend.
+## 📊 Performance Summary (50 Epochs)
+
+| Metric | Result |
+|--------|--------|
+| Training Accuracy | ~85% |
+| Validation Accuracy | ~80–82% |
+| Overfitting | Very mild, well-controlled |
+| Underfitting | Resolved |
+| Generalization | Strong, stable performance across epochs |
+
+These results show the benefit of extended training combined with batch normalization, dropout regularization, and a learning rate scheduler. The model's performance improves meaningfully beyond the 25-epoch run and demonstrates smooth convergence.
 
 ---
 
