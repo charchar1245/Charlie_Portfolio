@@ -78,11 +78,6 @@ self.model = nn.Sequential(
 ### Training Loss Curve
 ![Loss Curve](loss_curve.png)
 
-### R² Score Plot
-![R2 Plot](r2_plot.png)
-
-*(Place images in this folder and reference them using relative paths.)*
-
 ---
 
 ## 🥇 Results
