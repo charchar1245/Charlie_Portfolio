@@ -16,7 +16,7 @@ You can also find a link to my resume and my Kaggle profile as well.
 
 ---
 
-# [Housing Prices Predictor](projects/housing-prices/README.md)
+# [Housing Prices Predictor](projects/housing-prices)
 This project builds a neural network capable of estimating the sale price of a house in USD using 81 numerical and categorical features. The model is trained on the well-known Kaggle dataset *House Prices – Advanced Regression Techniques*. The workflow includes one-hot encoding, imputation of missing data, normalization, model construction in PyTorch, and optimization with Adam and MSELoss.  
 The final model performs competitively with an **R² score of 0.97** on test data, demonstrating strong predictive accuracy for real-estate valuation tasks.
 
