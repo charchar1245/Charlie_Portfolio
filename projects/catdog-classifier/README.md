@@ -142,16 +142,6 @@ These results show the benefit of extended training combined with batch normaliz
 
 ---
 
-## 🚀 Planned Improvements
-
-- Add a full metric table for the 50-epoch run  
-- Experiment with transfer learning (ResNet-18, MobileNet, EfficientNet)  
-- Increase dataset size  
-- Add Gaussian noise / random crop augmentation  
-- Try focal loss to reduce class-specific prediction difficulty  
-
----
-
 ## 🎉 Conclusion
 
 This project highlights the full deep-learning workflow:
