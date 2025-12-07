@@ -1,3 +1,5 @@
+[← Back to Portfolio](../../README.md)
+
 # 🩺 Diabetes Classification Neural Network
 *A binary classifier for predicting diabetes using clinical features*
 
@@ -143,3 +145,4 @@ These results show that after incorporating `pos_weight`, the model significantl
 
 By leveraging `pos_weight` and analyzing recall, precision, and F1 score, the model evolved from a high-accuracy but low-utility classifier into one that meaningfully identifies diabetic patients. This project highlights the importance of using the right evaluation metrics and training strategies when working with imbalanced medical datasets.
 
+[← Back to Portfolio](../../README.md)
