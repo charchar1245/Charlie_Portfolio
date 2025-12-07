@@ -1,3 +1,5 @@
+[← Back to Portfolio](../../README.md)
+
 # 🐱🐶 Cat vs. Dog Image Classifier
 
 A Convolutional Neural Network (CNN) built in PyTorch to classify 128×128 RGB images as either **cats** or **dogs**.  
@@ -137,3 +139,4 @@ The extended 50-epoch version will showcase further refinement and loss reductio
 
 ---
 
+[← Back to Portfolio](../../README.md)
