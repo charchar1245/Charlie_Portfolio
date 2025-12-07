@@ -91,5 +91,11 @@ The model generalizes well and captures nearly all variance in the target price.
 - Well-engineered features drastically improve accuracy  
 - One-hot encoding was essential for categorical handling  
 - Normalization stabilized gradients during training  
-- Adam optimizer performed well on mixed feature scales  
+- Adam optimizer performed well on mixed feature scales
 
+  ---
+
+## Conclusion
+This project showcases the power of neural networks over simpler Machine Learning models such as Naive Bayes, k-Nearest-Neighbor, or decision tree forests. Typically in those simpler models, less important features
+must be eliminated before regression is performed because the models are only equipped to handle the important features of a dataset. In this example with 81 features, a simple neural network uses every feature available
+and still produces an accurate output for every single case.
