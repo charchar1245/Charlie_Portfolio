@@ -2,7 +2,7 @@ This project predicts whether a student will complete an online course using
 engagement, performance, and demographic features.
 
 👉 **Open the full analysis notebook here:**  
-[StudentCourseCompletion.ipynb](StudentCourseCompletion (1).ipynb)
+[StudentCourseCompletion.ipynb](StudentCourseCompletion-(1).ipynb)
 
 **Highlights**
 - Binary classification with recall-prioritized evaluation
