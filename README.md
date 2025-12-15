@@ -24,7 +24,7 @@ and flipped in order to challenge the model into memorizing general patterns tha
 ---
 
 # [Student Course Failure Risk Classification](#)
-This project emplys a data pipeline on over 100,000 students' online course data in order to predict their risk of failing an online course theat they're enrolled in. The data pipeline consists of documented Exploratory Data Analysis, Pre-processing, Model Training & Cross-Validation, hyper-parameter tuning, and some final evaluations and conclusions. Logistic Regression was found to be the best performing model for the task after performing threshold tuning, outcompeting Random Forest and Gradient Boosting models.
+This project employs a data pipeline on over 100,000 students' online course data in order to predict their risk of failing an online course theat they're enrolled in. The data pipeline consists of documented Exploratory Data Analysis, Pre-processing, Model Training & Cross-Validation, hyper-parameter tuning, and some final evaluations and conclusions. Logistic Regression was found to be the best performing model for the task after performing threshold tuning, outcompeting Random Forest and Gradient Boosting models.
 Originally started as a binary classification task (will the student pass or fail?) but was modified into a classification task where each student is determined to be either high-risk, medium-risk, or low-risk.
 
 
